@@ -3,6 +3,6 @@ title: "Merge Conflict Practice"
 format: html
 ---
 ## Collaborative Analysis
-The most important part of collaborative data analysis is clear communication.
+The most important part of collaborative data analysis is documenting important decisions.
 Good collaboration also requires everyone to understand how changes are
 incorporated into a shared project.
